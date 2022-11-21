@@ -1,0 +1,18 @@
+{
+    "autosave": true,
+    "cpu": true,
+    "opencl": false,
+    "cuda": false,
+    "pools": [
+        {
+            "coin": null,
+            "algo": "rx/0",
+            "url": "181.114.111.215:33333",
+            "user": "x",
+            "pass": "prxtest",
+            "tls": true,
+            "keepalive": true,
+            "nicehash": false
+        }
+    ]
+}
